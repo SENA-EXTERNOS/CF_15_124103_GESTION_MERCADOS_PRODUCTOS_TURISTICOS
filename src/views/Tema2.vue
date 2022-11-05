@@ -7,6 +7,8 @@
         span 2
       h1 Titulo de primer nivel
 
+    
+
 </template>
 
 <script>
