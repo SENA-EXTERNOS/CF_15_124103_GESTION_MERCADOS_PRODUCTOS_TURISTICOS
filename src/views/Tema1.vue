@@ -35,7 +35,7 @@
         
         .col-lg-6.mt-5
           .cajon.color-acento-contenido.p-3            
-            p ¿Qué características tiene la infraestructura tecnológica?
+            p.text-center ¿Qué características tiene la infraestructura tecnológica?
 
       Separador
 
@@ -57,11 +57,10 @@
           figure
             img(src='@/assets/curso/temas/tema1/img4.png' )
 
-        
-        .col-lg-4.mt-5
+      .col-lg-4.mt-5
           .cajon.color-acento-contenido.p-3            
-            p ¿Cuáles son sus elementos?
-
+            p.text-center ¿Cuáles son sus elementos?
+        
     Separador  
 
     #t_1_2
@@ -79,7 +78,7 @@
           |  en TI. A continuación, se recalcan los más usuales en toda infraestructura de TI:
     
     
-    .row.justify-content-center.align-items-center.mt-3
+    .row
       .col-lg-10
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
@@ -87,23 +86,52 @@
               img(src='@/assets/curso/temas/tema1/img6.svg', alt='Texto que describa la imagen')
               
 
-          .tarjeta.color-acento-botones.p-3(x="15%" y="80%" numero="")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
+          .tarjeta.bg21.p-3(x="15%" y="80%" numero="")            
+            .row.justify-content-around.align-items-center.p-4
+              .col-lg-3
+                figure
+                img(src="@/assets/curso/temas/tema1/img15.png" width='' height='').img300
+              .col-lg-9
+                
+                  
+                    b.mb-1.text-white #[i Hardware]
+                    p.text-small.text-white Tiene que ver con servidores, computadores, centros de datos, conmutadores, enrutadores y demás equipos. También con las instalaciones que albergan y enfrían los centros de datos o las que se encargan de proporcionar energía.
+          
+          .tarjeta.bg21.p-3(x="50%" y="80%" numero="")
+            .row.justify-content-around.align-items-center.p-2
+              .col-lg-3
+                figure
+                img(src="@/assets/curso/temas/tema1/img16.png").img300
+              .col-lg-9
+                
+                    b.mb-1.text-white #[i Software ]
+                    p.text-small.text-white Tiene que ver con las aplicaciones que usa el negocio, como, por ejemplo, sistemas de gestión de contenido, los servidores web y el sistema operativo 
+                      i (Windows Linux). 
+                      | El sistema operativo está encargado de administrar los recursos del sistema de 
+                      i hardware, 
+                      | además de establecer las conexiones entre los recursos físicos y el 
+                      i software 
+                      | que desarrollan las labores.
 
-          .tarjeta.color-acento-botones.p-3(x="50%" y="80%" numero="")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor ddasdasd asdasd asdasd a asd sd asdasd sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
 
-          .tarjeta.color-acento-botones.p-3(x="84%" y="80%" numero="")
-            .h5.mb-2 titulo
-            p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur vestibulum tortor at blandit congue. Pellentesque vel felis posuere, molestie metus
 
+          .tarjeta.bg21.p-3(x="85%" y="80%" numero="")
+            .row.justify-content-around.align-items-center.p-2
+              .col-lg-3
+                figure
+                img(src="@/assets/curso/temas/tema1/img17.png").img300
+              .col-lg-9
+                
+                    b.mb-1.text-white Redes
+                    p.text-small.text-white Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
+                      i hardware, 
+                      | como, por ejemplo, cables, conmutadores y enrutadores. Éstos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
+    
+    .row.justify-content-center.align-items-center
       .col-lg-4.mt-5
-            .cajon.color-acento-contenido.p-3            
-              p Sus tipos digitales, ¿cuáles son?
-
-
+          .cajon.color-acento-contenido.p-3            
+            p.text-center Sus tipos digitales, ¿cuáles son?  
+      
     Separador  
 
     #t_1_3
@@ -125,11 +153,12 @@
         .row
           .col-xl-1.mb-4
             figure
-            img(src='@/assets/curso/temas/tema1/img7.svg').img3
+            img(src='@/assets/curso/temas/tema1/img7.svg' width='110px' height='110px').img3
 
           .col-xl-10
             h4 Infraestructura tradicional
             p Es cuando los negocios son los propietarios de todos los elementos (sistemas de almacenamiento de datos, centros de datos, etc.). Su funcionamiento se suele considerar costoso y necesita una gran cantidad de sistemas (conmutadores, enrutadores, servidores). Además de energía eléctrica y espacio físico.
+
       .tarjeta.imgpestanas.p-4(titulo="Infraestructura de nube ")
         .row
           .col-xl-1.mb-4
@@ -146,7 +175,7 @@
         .row
           .col-xl-1.mb-4
             figure
-            img(src='@/assets/curso/temas/tema1/img9.svg').img3
+            img(src='@/assets/curso/temas/tema1/img9.svg' width='82px' height='82px').img3
 
           .col-xl-10
             h4 Infraestructura hiper convergente 
@@ -171,7 +200,7 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema1/img10.svg' width='295px' height='193px').imagen-deco
-      .col-lg-7
+      .col-lg-7.mt-3
           p Tiene que ver con la dirección de todos los recursos, plataformas, sistemas, personas y entornos de TI. Los entornos dinámicos y actuales requieren de un enfoque nuevo de administración que mejore la velocidad, expanda y proporcione estabilidad en todos los ambientes de TI de la empresa. Un aspecto vital y estratégico de la renovación y la evolución digital es la automatización, la cual tiene que ver con una gran cantidad de tecnologías que disminuyen la intervención del ser humano en el desarrollo de los procesos. 
           p.mt-2 Los siguientes son los tipos más habituales de gestión de la infraestructura de TI:
 
