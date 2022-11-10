@@ -266,34 +266,34 @@ export default {
   ],
   referencias: [
     {
-      referencia: 'Libro',
-      link:
-        'Álvarez de Sotomayor, S. F. (2020). <em>Plataformas digitales en los alquileres vacacionales.<em> Madrid: Reus Editorial.',
+      referencia:
+        'Libro Álvarez de Sotomayor, S. F. (2020). <em>Plataformas digitales en los alquileres vacacionales.<em> Madrid: Reus Editorial.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'De Castro Torrecilla, J. (2020). Plataformas digitales en el turismo y su implicación en la transformación del <em>marketing<em> del sector. Segovia: <em>Facultad de Ciencias Sociales, Jurídicas y de la Comunicación.<em> Universidad de Valladolid.',
+      referencia:
+        'Libro De Castro Torrecilla, J. (2020). Plataformas digitales en el turismo y su implicación en la transformación del <em>marketing<em> del sector. Segovia: <em>Facultad de Ciencias Sociales, Jurídicas y de la Comunicación.<em> Universidad de Valladolid.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Jarne Muñoz, P. (2019). <em>Economía colaborativa y plataformas digitales.<em> Madrid: Editorial Reus.',
+      referencia:
+        'Libro Jarne Muñoz, P. (2019). <em>Economía colaborativa y plataformas digitales.<em> Madrid: Editorial Reus.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Ohia, N. (2019). <em>Auditando Tus Sistemas de Información E Infraestructura de Ti.<em> Amazon Digital Services.',
+      referencia:
+        'Libro Ohia, N. (2019). <em>Auditando Tus Sistemas de Información E Infraestructura de Ti.<em> Amazon Digital Services.',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'París, J. A. (2019). Comunicación esencial. El paradigma del <em>marketing<em> esencial <em>aplicado al diseño y comunicación visual.<em> Bogotá: Editorial Nobuko',
+      referencia:
+        'Libro París, J. A. (2019). Comunicación esencial. El paradigma del <em>marketing<em> esencial <em>aplicado al diseño y comunicación visual.<em> Bogotá: Editorial Nobuko',
+      link: '',
     },
     {
-      referencia: 'Libro',
-      link:
-        'Yalán Dongo, E. (2019). <em>Semiótica Del Consumo: Una Aproximación a La Publicidad Desde Sus Signos.<em> Bogotá: Ediciones De La U',
+      referencia:
+        'Libro Yalán Dongo, E. (2019). <em>Semiótica Del Consumo: Una Aproximación a La Publicidad Desde Sus Signos.<em> Bogotá: Ediciones De La U',
+      link: '',
     },
   ],
   creditos: {

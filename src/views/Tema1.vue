@@ -210,7 +210,7 @@
           .row.justify-content-center.align-items-center.my-lg-4
             .col-lg-6
               .number(data-number="01")
-                b.ps-4 Gestión del sistema operativo
+                b.ps-4.text-left Gestión del sistema operativo
                 p.ps-4.mb-0.text-small.mt-3 Vigila los ambientes que ejecutan el sistema operativo con el fin de proporcionar una administración en las suscripciones, ejecuciones, parches y contenidos.
             .col-7.col-lg-5
               figure

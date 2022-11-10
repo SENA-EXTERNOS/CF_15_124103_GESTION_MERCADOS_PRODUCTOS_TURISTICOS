@@ -11,7 +11,7 @@
 
 
     .row.justify-content-center.align-items-center
-      .col-lg-3
+      .col-lg-4
           figure
             img(src='@/assets/curso/temas/introduccion/img1.svg' width='400px' height='260px')
       .col-lg-7.mt-4

@@ -12,8 +12,7 @@
             img(src='@/assets/curso/temas/tema2/img1.png' width='1240px' height='248px').imagen-deco
     .col-lg-12.mt-5
           .cajon.color-primario.p-3            
-            b Jarne Muñoz 
-              p (2019) afirma que las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por software o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc.
+            p  #[b Jarne Muñoz] (2019) afirma que las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por software o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc.
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-7
