@@ -12,7 +12,9 @@
             img(src='@/assets/curso/temas/tema2/img1.png' width='1240px' height='248px').imagen-deco
     .col-lg-12.mt-5
           .cajon.color-primario.p-3            
-            p  #[b Jarne Muñoz] (2019) afirma que las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por software o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc.
+            p  #[b Jarne Muñoz] (2019) afirma que las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por 
+              i software 
+              | o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc.
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-7
@@ -25,7 +27,7 @@
     .row.justify-content-center.align-items-center.mt-2
       .col-lg-2
           figure
-            img(src='@/assets/curso/temas/tema2/img3.png' width='190px' height='104px').imagen-deco
+            img(src='@/assets/curso/temas/tema2/img3.svg' width='190px' height='104px').imagen-deco
       .col-lg-9.mt-4
           p De acuerdo con su tipo, estas se pueden usar de muchas formas: para invertir, estar enterados de noticias, conocer sobre tendencias o tener contacto con las marcas, entre otras. En el sector turístico, las plataformas digitales brindan ingreso global a los clientes y permiten a los proveedores poder optimizar el desarrollo del turismo y sus esquemas de competitividad. Muchas microempresas se han beneficiado con los permanentes cambios digitales, porque a través de estos pueden estar en contacto con sus clientes, hacer promoción de sus bienes y servicios, y posicionarse en el mercado. 
 
@@ -112,11 +114,13 @@
             .row(titulo="Plataformas educativas")
               .col-12
                 p.mb-0 Se centran en la educación virtual y pretenden simular las experiencias de aprendizaje presenciales. Un
-                  i LMS, Learning Management System, es un sistema de gestión del aprendizaje en el que una plataforma es usada por un centro educativo para la gestión de todas las actividades en este sentido. Su objetivo más importante es brindar información útil y herramientas para el aprendizaje y el análisis. 
+                  i  LMS, Learning Management System, 
+                  | es un sistema de gestión del aprendizaje en el que una plataforma es usada por un centro educativo para la gestión de todas las actividades en este sentido. Su objetivo más importante es brindar información útil y herramientas para el aprendizaje y el análisis. 
             .row(titulo="Plataformas de comercio electrónico")
               .col-12
                 p.mb-0 Se centran en la compra y venta de bienes y servicios sin salir del hogar o límites geográficos. Su creación demanda mucho trabajo. Se deben procesar las compras, interactuar con el público objetivo y gestionar el inventario. Pero, el paso inicial es la elección de la plataforma digital de venta que se adapte mejor a la empresa. Esto ayuda a la construcción de una estrategia de 
-                  i marketing consistente, la realización de un atractivo diseño web, la mejora en la experiencia de compra del público objetivo y la gestión de los procesos en las compras y el inventario. 
+                  i marketing 
+                  | consistente, la realización de un atractivo diseño web, la mejora en la experiencia de compra del público objetivo y la gestión de los procesos en las compras y el inventario. 
             
             
             .row(titulo="Plataformas sociales")
@@ -176,7 +180,9 @@
           figure
             img(src='@/assets/curso/temas/tema2/img6.png' )
       .col-lg-10.mt-4
-          p De Castro Torrecilla (2020) afirma que la creación de una estrategia de mercadeo digital involucra un conjunto de detalles que deben ser realizados y acompañados de forma constante, con el fin de incrementar la presencia online de la marca. Con el uso de las plataformas digitales, este proceso es más fácil y económico de realizar porque permiten la realización de creativas estrategias y con un equipo de trabajo pequeño. Por otro lado, posibilitan la concentración en la estrategia y no en las tareas operativas.
+          p De Castro Torrecilla (2020) afirma que la creación de una estrategia de mercadeo digital involucra un conjunto de detalles que deben ser realizados y acompañados de forma constante, con el fin de incrementar la presencia 
+            i online 
+            | de la marca. Con el uso de las plataformas digitales, este proceso es más fácil y económico de realizar porque permiten la realización de creativas estrategias y con un equipo de trabajo pequeño. Por otro lado, posibilitan la concentración en la estrategia y no en las tareas operativas.
 
     .row.justify-content-center.align-items-center.mt-2
       .col-lg-7
@@ -219,9 +225,9 @@
     .row.justify-content-center.align-items-center
       .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema2/img8.png' width='295px' height='146px').imagen-deco
+            img(src='@/assets/curso/temas/tema2/img8.svg').imagen-deco
       .col-lg-7.mt-4
-          p Desarrollar una estrategia de mercadeo digital con la presencia de una plataforma virtual es una tarea que se hace más fácil, porque genera menos gastos y mejores resultados. Por eso, las plataformas digitales traen consigo una buena cantidad de ventajas para cualquier estrategia de mercadeo. A continuación, se detallan algunas de ellas:
+          p Desarrollar una estrategia de mercadeo digital con la presencia de una plataforma virtual es una tarea que se hace cada vez más fácil. El uso de plataformas digitales genera menos gastos y mejores resultados, es más ágil e interactivo, por lo que a su vez aumenta la retroalimentación. Además de esto, las plataformas digitales traen consigo una buena cantidad de ventajas para cualquier estrategia de mercadeo. A continuación, se detallan algunas de ellas:
 
     .container.tarjeta.p-3.p-md-3.mt-4
     SlyderB.ps-4.mb-0(:datos="datosSlyder").imgslider2
@@ -246,7 +252,10 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Gestión de plataformas digitales
-                      p.text-small.text-white Para ampliar información sobre la gestión de las plataformas digitales, revise los contenidos dispuestos en el Anexo 1. 
+                      p.text-small.text-white Para ampliar información sobre 
+                        b la gestión de las plataformas digitales, 
+                        | revise los contenidos dispuestos en el 
+                        b Anexo 1. 
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_1-Gestion de plataformas digitales.pdf')" target="_blank")
                         span Descargar
@@ -276,7 +285,7 @@ export default {
       {
         titulo: 'Permiten trabajar con un equipo pequeño',
         texto:
-          'En No se necesita tener muchas personas porque las plataformas y la automatización pueden ejecutar muchas labores simultáneamente.',
+          'No se necesita tener muchas personas porque las plataformas y la automatización pueden ejecutar muchas labores simultáneamente.',
         imagen: require('@/assets/curso/temas/tema2/slider2.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
@@ -308,7 +317,7 @@ export default {
       {
         titulo: 'No se necesita ser experto en informática',
         texto:
-          'Con el uso de plataformas digitales y la automatización se puede reducir el margen de error, siempre y cuando su administración sea la adecuada.No se necesita ser experto en informática. En la actualidad, las plataformas digitales son muy intuitivas, y por lo tanto no se requiere saber mucho para comenzar a usarlas, más que una simple introducción inicial.',
+          'No se necesita ser experto en informática. En la actualidad, las plataformas digitales son muy intuitivas, y por lo tanto no se requiere saber mucho para comenzar a usarlas, más que una simple introducción inicial.',
         imagen: require('@/assets/curso/temas/tema2/slider6.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },

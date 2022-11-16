@@ -19,7 +19,9 @@
             i software y hardware. 
             | Sus productos pueden ser descargados como aplicaciones que luego se pueden ejecutar en los recursos de TI existentes (almacenamiento definido por 
             i software
-            | ), o también, como soluciones online ofrecidas por proveedores de servicios (la infraestructura como servicio - IaaS, entre otros).
+            | ), o también, como soluciones 
+            i online 
+            | ofrecidas por proveedores de servicios (la infraestructura como servicio - IaaS, entre otros).
     
           .row.justify-content-center.align-items-center
             .col-lg-8
@@ -55,7 +57,7 @@
       .row.justify-content-center.align-items-center.mt-3
         .col-lg-10.mt-4
           figure
-            img(src='@/assets/curso/temas/tema1/img4.png' )
+            img(src='@/assets/curso/temas/tema1/img4.svg' )
 
       .col-lg-4.mt-5
           .cajon.color-acento-contenido.p-3            
@@ -230,7 +232,9 @@
             .col-lg-6
               .number(data-number="03")
                 b.ps-4 Gestión de la virtualización
-                p.ps-4.mb-0.text-small.mt-2 Interacciona con los ambientes virtuales y el hardware físico subyacente para sintetizar la gestión de recursos, la mejoría en el análisis de datos y la optimización de las operaciones.
+                p.ps-4.mb-0.text-small.mt-2 Interacciona con los ambientes virtuales y el 
+                  i hardware 
+                  | físico subyacente para sintetizar la gestión de recursos, la mejoría en el análisis de datos y la optimización de las operaciones.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider3.png')

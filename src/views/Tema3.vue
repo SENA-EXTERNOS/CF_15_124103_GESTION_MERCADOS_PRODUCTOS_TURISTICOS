@@ -51,11 +51,8 @@
             .col-lg-6
               .number(data-number="04")
                 
-                p.ps-4.mb-0.text-small.mt-2 Anuncio publicitario 
-                  i McDonalds 
-                  | Anuncio publicitario de 
-                  i McDonald’s 
-                  | “café largo” que presenta la información de una manera clara y concisa.
+                i.text-small.mt-2 Anuncio publicitario 
+                p.text-small #[i McDonalds Anuncio publicitario de McDonald’s “café largo” que presenta la información de una manera clara y concisa.] 
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider4.png')
@@ -65,9 +62,8 @@
             .col-lg-6
               .number(data-number="05")
                 
-                p.ps-4.mb-0.text-small.mt-2 Anuncio publicitario 
-                  i Faber-Castell 
-                  | Anuncio publicitario de Faber-Castell ‘colores verdaderos’ que muestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.
+                i.text-small.mt-2 Anuncio publicitario 
+                p.text-small #[i Faber-Castell Anuncio publicitario de Faber-Castell ‘colores verdaderos’ que muestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.]  
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider5.png')
@@ -77,7 +73,12 @@
             .col-lg-6
               .number(data-number="06")
                 
-                p.ps-4.mb-0.text-small.mt-2 Anuncio publicitario Toyota Anuncio publicitario de Toyota “FJ Cruiser 4×4” que muestra la potencia de la camioneta de manera exagerada pero, a la vez, clara y sin necesidad de adornos o demasiados textos.
+                            
+               i.text-small.mt-2 Anuncio publicitario Toyota 
+              p.text-small #[i Anuncio publicitario de Toyota “FJ Cruiser 4×4” que muestra la potencia de la camioneta de manera exagerada pero, a la vez, clara y sin necesidad de adornos o demasiados textos.]  
+            
+            
+            
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider6.png')
@@ -171,6 +172,55 @@
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption   VIDEO
+
+    .row.justify-content-center.align-items-center
+      .col-lg-8.mt-5
+            .cajon.color-acento-contenido.p-3            
+              p.text-left Ahora bien, también existen tipos de comunicación visual que las empresas pueden emplear para llevar información al cliente potencial. A continuación, algunos ejemplos:
+
+
+    .tarjeta.bg50.p-4.mt-5
+      LineaTiempoC.color-acento-botones
+        .row(titulo="Volantes comerciales y revistas")
+        
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/tema3/img1.svg', alt='Texto que describa la imagen')
+              
+          .col-md-7.mb-4.mb-md-0
+            p Los 
+              i flyers, 
+              | las revistas y los folletos comerciales también están llenos de imágenes que motivan al cliente a una acción de compra, bien sea de un producto o servicio.
+
+        .row(titulo="Fotografías")
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/tema3/img2.svg', alt='Texto que describa la imagen')
+              
+          .col-md-7.mb-4.mb-md-0
+            p Sirven para mostrar escenarios, rostros, bienes, servicios, comidas y paisajes, entre muchas cosas más, de una manera llamativa e impactante.  
+
+        .row(titulo="Vallas publicitarias")
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/tema3/img3.svg', alt='Texto que describa la imagen')
+              
+          .col-md-7.mb-4.mb-md-0
+            p Sirven de apoyo a una campaña publicitaria, porque su objetivo es recordar una marca o sus productos y/o servicios. Se sugiere que tenga poco texto y una gran imagen que impacte al espectador. Su ubicación, por lo general, se da en vías públicas donde hay tránsito vehicular. 
+
+
+
+        .row(titulo="Películas, documentales y comerciales")
+          .col-md-5
+            figure
+              img(src='@/assets/curso/temas/tema3/img4.svg', alt='Texto que describa la imagen')
+              
+          .col-md-7.mb-4.mb-md-0
+            p Entra en juego el séptimo arte y todas sus manifestaciones, como documentales, cortometrajes y comerciales de televisión. El uso de los audiovisuales impacta mucho porque integra imágenes en movimiento con audio, a través de una narrativa, posibilitando la transmisión de un mensaje de forma seductora y llamativa. En la actualidad se pueden editar este tipo de videos para ser compartidos en redes sociales, de manera que su contenido sea viralizado por los mismos clientes. (París, 2019, p. 253).
+
+
+
+
 
     Separador
 

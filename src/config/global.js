@@ -201,7 +201,8 @@ export default {
       referencia:
         'Montes Vozmediano, M. & Vizcaíno-Laorga, R. (2015). 3. Componentes básicos de la comunicación visual. En Diseño gráfico publicitario. <em>Principios fundamentales para el análisis y elaboración de mensajes visuales. <em> (p. 42- 59) Publisher: OMM Press',
       tipo: 'Capítulo de libro',
-      link: 'Capítulo de libro',
+      link:
+        'https://www.researchgate.net/publication/335960976_Componentes_basicos_de_la_comunicacion_visual ',
     },
     {
       tema: 'Semiótica',
