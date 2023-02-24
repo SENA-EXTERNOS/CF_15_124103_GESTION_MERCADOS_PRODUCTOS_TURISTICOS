@@ -39,12 +39,7 @@
           .cajon.color-acento-contenido.p-3            
             p.text-center ¿Qué características tiene la infraestructura tecnológica?
 
-      Separador
-
-    #t_1_1
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 1.1  Características
+    h3.mb-5 Características de la Infraestructura tecnológica
 
 
     .row.justify-content-center.align-items-center
@@ -63,12 +58,7 @@
           .cajon.color-acento-contenido.p-3            
             p.text-center ¿Cuáles son sus elementos?
         
-    Separador  
-
-    #t_1_2
-
-    .titulo-segundo.color-acento-contenido.mb-5        
-      h2 1.2 Elementos
+    h3.mb-5 Elementos de la Infraestructura Tecnológica
 
     .row
       .col-lg-2
@@ -97,7 +87,7 @@
                 
                   
                     b.mb-1.text-white #[i Hardware]
-                    p.text-small.text-white Tiene que ver con servidores, computadores, centros de datos, conmutadores, enrutadores y demás equipos. También con las instalaciones que albergan y enfrían los centros de datos o las que se encargan de proporcionar energía.
+                    p.text-white Tiene que ver con servidores, computadores, centros de datos, conmutadores, enrutadores y demás equipos. También con las instalaciones que albergan y enfrían los centros de datos o las que se encargan de proporcionar energía.
           
           .tarjeta.bg21.p-3(x="50%" y="80%" numero="")
             .row.justify-content-around.align-items-center.p-2
@@ -107,7 +97,7 @@
               .col-lg-9
                 
                     b.mb-1.text-white #[i Software ]
-                    p.text-small.text-white Tiene que ver con las aplicaciones que usa el negocio, como, por ejemplo, sistemas de gestión de contenido, los servidores web y el sistema operativo 
+                    p.text-white Tiene que ver con las aplicaciones que usa el negocio, como, por ejemplo, sistemas de gestión de contenido, los servidores web y el sistema operativo 
                       i (Windows Linux). 
                       | El sistema operativo está encargado de administrar los recursos del sistema de 
                       i hardware, 
@@ -125,7 +115,7 @@
               .col-lg-9
                 
                     b.mb-1.text-white Redes
-                    p.text-small.text-white Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
+                    p.text-white Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
                       i hardware, 
                       | como, por ejemplo, cables, conmutadores y enrutadores. Éstos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
     
@@ -134,12 +124,7 @@
           .cajon.color-acento-contenido.p-3            
             p.text-center Sus tipos digitales, ¿cuáles son?  
       
-    Separador  
-
-    #t_1_3
-    .bg1
-      .titulo-segundo.color-acento-contenido.mb-5        
-        h2 1.3 Tipos
+    h3.mb-5 Tipos de Infraestructura tecnológica
 
     p A continuación, se enuncian los tipos digitales más normales y usados en la infraestructura de TI:
 
@@ -191,12 +176,7 @@
             .cajon.color-acento-contenido.p-3            
               p ¿Qué es la gestión de la infraestructura digital?
 
-    Separador  
-
-    #t_1_4
-
-    .titulo-segundo.color-acento-contenido.mb-5        
-      h2 1.4 Gestión
+    h3.mb-5 Gestión de la Infraestructura tecnológica
 
     .row.justify-content-center.align-items-center  
       .col-lg-4
@@ -213,7 +193,7 @@
             .col-lg-6
               .number(data-number="01")
                 b.ps-4.text-left Gestión del sistema operativo
-                p.ps-4.mb-0.text-small.mt-3 Vigila los ambientes que ejecutan el sistema operativo con el fin de proporcionar una administración en las suscripciones, ejecuciones, parches y contenidos.
+                p.ps-4.mb-0.mt-3 Vigila los ambientes que ejecutan el sistema operativo con el fin de proporcionar una administración en las suscripciones, ejecuciones, parches y contenidos.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider1.png')
@@ -222,7 +202,7 @@
             .col-lg-6
               .number(data-number="02")
                 b.ps-4 Gestión de la nube
-                p.ps-4.mb-0.text-small.mt-2 Otorga a los directores de nubes el control de todo lo realizado en ellas (usuarios, datos, aplicaciones y servicios), administrando la recuperación ante calamidades, al igual que el uso, la integración y la ejecución de recursos.
+                p.ps-4.mb-0.mt-2 Otorga a los directores de nubes el control de todo lo realizado en ellas (usuarios, datos, aplicaciones y servicios), administrando la recuperación ante calamidades, al igual que el uso, la integración y la ejecución de recursos.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider2.png')
@@ -232,7 +212,7 @@
             .col-lg-6
               .number(data-number="03")
                 b.ps-4 Gestión de la virtualización
-                p.ps-4.mb-0.text-small.mt-2 Interacciona con los ambientes virtuales y el 
+                p.ps-4.mb-0.mt-2 Interacciona con los ambientes virtuales y el 
                   i hardware 
                   | físico subyacente para sintetizar la gestión de recursos, la mejoría en el análisis de datos y la optimización de las operaciones.
             .col-7.col-lg-5
@@ -243,7 +223,7 @@
             .col-lg-6
               .number(data-number="04")
                 b.ps-4 Gestión de las operaciones de TI
-                p.ps-4.mb-0.text-small.mt-2 También conocida como gestión de procesos empresariales, se refiere a la práctica con la que se forman, examinan y mejoran los procesos de este tipo que son permanentes o previsibles, o incluso, los que se suelen repetir.
+                p.ps-4.mb-0.mt-2 También conocida como gestión de procesos empresariales, se refiere a la práctica con la que se forman, examinan y mejoran los procesos de este tipo que son permanentes o previsibles, o incluso, los que se suelen repetir.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider4.png')
@@ -252,7 +232,7 @@
             .col-lg-6
               .number(data-number="05")
                 b.ps-4 Automatización de la TI
-                p.ps-4.mb-0.text-small.mt-2 También conocida como automatización de la infraestructura, se refiere a la generación de instrucciones y procesos que se repiten para sustituir o disminuir la interacción humana con los sistemas de TI.
+                p.ps-4.mb-0.mt-2 También conocida como automatización de la infraestructura, se refiere a la generación de instrucciones y procesos que se repiten para sustituir o disminuir la interacción humana con los sistemas de TI.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider5.png')
@@ -261,7 +241,7 @@
             .col-lg-6
               .number(data-number="06")
                 b.ps-4 Organización de contenedores
-                p.ps-4.mb-0.text-small.mt-2 Automatiza la implementación, escalabilidad, administración y conexión en red de los contenedores.
+                p.ps-4.mb-0.mt-2 Automatiza la implementación, escalabilidad, administración y conexión en red de los contenedores.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider6.png')
@@ -271,7 +251,7 @@
             .col-lg-6
               .number(data-number="07")
                 b.ps-4 Gestión de la configuración
-                p.ps-4.mb-0.text-small.mt-2 Protege los sistemas de información, 
+                p.ps-4.mb-0.mt-2 Protege los sistemas de información, 
                   i software 
                   | y servidores en buen estado y de forma uniforme.
             .col-7.col-lg-5
@@ -282,7 +262,7 @@
             .col-lg-6
               .number(data-number="08")
                 b.ps-4 Gestión de las API
-                p.ps-4.mb-0.text-small.mt-2 Distribuye, vigila y examina las Interfaces de Programación de Aplicaciones (API) que enlazan las aplicaciones, los datos empresariales y las nubes.
+                p.ps-4.mb-0.mt-2 Distribuye, vigila y examina las Interfaces de Programación de Aplicaciones (API) que enlazan las aplicaciones, los datos empresariales y las nubes.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider8.png')
@@ -291,7 +271,7 @@
             .col-lg-6
               .number(data-number="09")
                 b.ps-4 Gestión de riesgos
-                p.ps-4.mb-0.text-small.mt-2 Identifica y evalúa los riesgos y crea planes para disminuirlos o controlarlos, así como para reducir sus posibles efectos. (Ohia, 2019, p. 82).
+                p.ps-4.mb-0.mt-2 Identifica y evalúa los riesgos y crea planes para disminuirlos o controlarlos, así como para reducir sus posibles efectos. (Ohia, 2019, p. 82).
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema1/slider9.png')

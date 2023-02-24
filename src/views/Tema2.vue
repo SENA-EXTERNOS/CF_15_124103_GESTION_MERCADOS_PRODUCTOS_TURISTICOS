@@ -12,9 +12,7 @@
             img(src='@/assets/curso/temas/tema2/img1.png' width='1240px' height='248px').imagen-deco
     .col-lg-12.mt-5
           .cajon.color-primario.p-3            
-            p  #[b Jarne Muñoz] (2019) afirma que las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por 
-              i software 
-              | o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc.
+            p  Jarne Muñoz (2019) afirma que, las plataformas digitales son sitios web que acumulan información de una empresa, y por medio de las cuales los clientes (usuarios) pueden ingresar a través de sus cuentas personales para ponerse en contacto con la misma. Estas se ejecutan por <i>software</i> o aplicaciones donde el contenido es realizable en sistemas operativos específicos, por ejemplo, aquellos con formatos audiovisuales, texto, imagen, infografía, simulaciones, etc. 
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-7
@@ -34,14 +32,9 @@
     .row.justify-content-center.align-items-center.mt-2
       .col-lg-10.mt-4
         .cajon.color-acento-contenido.p-3            
-          p.text-center De acuerdo a lo anterior, a continuación se verán las características de las plataformas digitales.
+          p.text-center De acuerdo a lo anterior, a continuación, se verán las características de las plataformas digitales.
 
-      Separador
-
-    #t_2_1
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 2.1  Características
+    h3.mb-5 Características de las plataformas digitales
     
     p Las plataformas digitales tienen un grupo de características que exponen su importancia hoy y a futuro:
     .row
@@ -93,15 +86,10 @@
             p.text-center Ya se vieron las características, es hora de acercarse a los tipos de las plataformas digitales.
 
 
-      Separador
-
-    #t_2_2
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 2.2  Tipos
+    h3.mb-5 Tipos de plataformas digitales
 
 
-    p Álvarez Sotomayor (2020) afirma que hay una gran cantidad de tipos de plataformas digitales y que con cada dificultad se puede crear un tipo distinto (s.p.). Las plataformas digitales admiten la creación de complicadas estrategias con un equipo de trabajo pequeño, además, también facilitan enfocarse en la estrategia y no en la operatividad. Algunos son:
+    p Álvarez Sotomayor (2020) afirma que hay una gran cantidad de tipos de plataformas digitales y que con cada dificultad se puede crear un tipo distinto (s.p.). Las plataformas digitales admiten la creación de complicadas estrategias con un equipo de trabajo pequeño, además, también facilitan enfocarse en la estrategia y no en la operatividad. Algunas son:
 
 
 
@@ -168,21 +156,14 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center En cuanto al  objetivo de las plataformas digitales, observe la siguiente infografía.
 
-    Separador
-
-    #t_2_3
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 2.3  Objetivos
+    h3.mb-5 Objetivos de las plataformas digitales
 
     .row
       .col-lg-2
           figure
             img(src='@/assets/curso/temas/tema2/img6.png' )
       .col-lg-10.mt-4
-          p De Castro Torrecilla (2020) afirma que la creación de una estrategia de mercadeo digital involucra un conjunto de detalles que deben ser realizados y acompañados de forma constante, con el fin de incrementar la presencia 
-            i online 
-            | de la marca. Con el uso de las plataformas digitales, este proceso es más fácil y económico de realizar porque permiten la realización de creativas estrategias y con un equipo de trabajo pequeño. Por otro lado, posibilitan la concentración en la estrategia y no en las tareas operativas.
+          p De Castro Torrecilla (2020) afirma que la creación de una estrategia de mercadeo digital involucra un conjunto de detalles que deben ser realizados y acompañados de forma constante, con el fin de incrementar la presencia online de la marca (p. 32). Con el uso de las plataformas digitales, este proceso es más fácil y económico de realizar, porque estas permiten el desarrollo de estrategias creativas con un equipo de trabajo pequeño. Por otro lado, posibilitan la concentración en la estrategia y no en las tareas operativas.
 
     .row.justify-content-center.align-items-center.mt-2
       .col-lg-7
@@ -215,12 +196,7 @@
             p.text-center Encontrará a continuación las ventajas de las plataformas digitales.
 
 
-      Separador
-
-    #t_2_4
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 2.4  Ventajas
+    h3.mb-5 Ventajas
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -233,12 +209,7 @@
     SlyderB.ps-4.mb-0(:datos="datosSlyder").imgslider2
 
 
-    Separador
-
-    #t_2_5
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 2.5  Gestión de plataformas digitales
+    h3.mb-5 Gestión de plataformas digitales
 
     p En cuanto a la gestión de plataformas digitales, antes de crear una plataforma digital, se necesita reflexionar sobre lo relacionado al modelo de negocio y la idoneidad empresarial para lograrlo. Es preciso tener en cuenta las claves para crear una plataforma digital que sea coherente con el contexto empresarial.
 
@@ -252,12 +223,12 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Gestión de plataformas digitales
-                      p.text-small.text-white Para ampliar información sobre 
+                      p.text-white Para ampliar información sobre 
                         b la gestión de las plataformas digitales, 
                         | revise los contenidos dispuestos en el 
                         b Anexo 1. 
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_1-Gestion de plataformas digitales.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_1_Gestion_de_plataformas_digitales.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -299,7 +270,7 @@ export default {
       },
 
       {
-        titulo: 'Gran variedad',
+        titulo: 'Variedad',
         texto:
           'Hay diversidad de plataformas que pueden ser seleccionadas según el contexto y las necesidades de la empresa.',
         imagen: require('@/assets/curso/temas/tema2/slider4.png'),
@@ -317,12 +288,12 @@ export default {
       {
         titulo: 'No se necesita ser experto en informática',
         texto:
-          'No se necesita ser experto en informática. En la actualidad, las plataformas digitales son muy intuitivas, y por lo tanto no se requiere saber mucho para comenzar a usarlas, más que una simple introducción inicial.',
+          'En la actualidad, las plataformas digitales son muy intuitivas,  por lo tanto no se requiere saber mucho para comenzar a usarlas, más que una simple introducción inicial.',
         imagen: require('@/assets/curso/temas/tema2/slider6.png'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Son más económicas',
+        titulo: 'Económicas',
         texto:
           'Hay plataformas de pago y también gratis. Sus beneficios superan de gran forma los costos de adquisición. (de Castro Torrecilla, 2020, p. 29).',
         imagen: require('@/assets/curso/temas/tema2/slider7.png'),

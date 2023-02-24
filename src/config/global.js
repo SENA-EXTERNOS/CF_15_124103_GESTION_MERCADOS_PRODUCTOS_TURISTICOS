@@ -39,32 +39,6 @@ export default {
         numero: '1',
         titulo: 'Infraestructura tecnológica',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Características ',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Elementos ',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Tipos  ',
-            hash: 't_1_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.4',
-            titulo: 'Gestión ',
-            hash: 't_1_4',
-          },
-        ],
       },
 
       {
@@ -73,38 +47,6 @@ export default {
         numero: '2',
         titulo: 'Plataformas digitales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Características ',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Tipos ',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Objetivos ',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Ventajas ',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Gestión de plataformas digitales ',
-            hash: 't_2_5',
-          },
-        ],
       },
 
       {
@@ -113,32 +55,6 @@ export default {
         numero: '3',
         titulo: 'Comunicación visual para medios digitales',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Elementos ',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Tipos ',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'El mensaje comunicacional ',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Semiótica',
-            hash: 't_3_4',
-          },
-        ],
       },
     ],
     subMenu: [
@@ -185,7 +101,7 @@ export default {
     {
       tema: 'Infraestructura tecnológica',
       referencia:
-        'Acosta, R., Miquilena, E. y Riveros, V. (2014). La infraestructura de las tecnologías de la información y comunicación como mediadoras y el aprendizaje de la biología. <em>Telos.<em> 16(1) p. 11-30 ',
+        'Acosta, R., Miquilena, E. y Riveros, V. (2014). <i>La infraestructura de las tecnologías de la información y comunicación como mediadoras y el aprendizaje de la biología</i>. Telos. 16(1) p. 11-30 ',
       tipo: 'Artículo',
       link: 'https://www.redalyc.org/pdf/993/99330402008.pdf ',
     },
@@ -241,7 +157,7 @@ export default {
     {
       termino: 'Plataforma digital',
       significado:
-        'es un lugar en la <em>web<em>, portal o ciberespacio, que se usa para el almacenamiento de distintos tipos de información a nivel empresarial o personal.',
+        'es un lugar en la web, portal o ciberespacio, que se usa para el almacenamiento de distintos tipos de información a nivel empresarial o personal.',
     },
     {
       termino: '<em>Retargeting<em>',
@@ -268,33 +184,27 @@ export default {
   referencias: [
     {
       referencia:
-        'Libro Álvarez de Sotomayor, S. F. (2020). <em>Plataformas digitales en los alquileres vacacionales.<em> Madrid: Reus Editorial.',
-      link: '',
+        'Álvarez de Sotomayor, S. F. (2020). <em>Plataformas digitales en los alquileres vacacionales.<em> Madrid: Reus Editorial.',
     },
     {
       referencia:
-        'Libro De Castro Torrecilla, J. (2020). Plataformas digitales en el turismo y su implicación en la transformación del <em>marketing<em> del sector. Segovia: <em>Facultad de Ciencias Sociales, Jurídicas y de la Comunicación.<em> Universidad de Valladolid.',
-      link: '',
+        'De Castro Torrecilla, J. (2020). Plataformas digitales en el turismo y su implicación en la transformación del <em>marketing<em> del sector. Segovia: <em>Facultad de Ciencias Sociales, Jurídicas y de la Comunicación.<em> Universidad de Valladolid.',
     },
     {
       referencia:
-        'Libro Jarne Muñoz, P. (2019). <em>Economía colaborativa y plataformas digitales.<em> Madrid: Editorial Reus.',
-      link: '',
+        'Jarne Muñoz, P. (2019). <em>Economía colaborativa y plataformas digitales.<em> Madrid: Editorial Reus.',
     },
     {
       referencia:
-        'Libro Ohia, N. (2019). <em>Auditando Tus Sistemas de Información E Infraestructura de Ti.<em> Amazon Digital Services.',
-      link: '',
+        'Ohia, N. (2019). <em>Auditando Tus Sistemas de Información E Infraestructura de Ti.<em> Amazon Digital Services.',
     },
     {
       referencia:
-        'Libro París, J. A. (2019). Comunicación esencial. El paradigma del <em>marketing<em> esencial <em>aplicado al diseño y comunicación visual.<em> Bogotá: Editorial Nobuko',
-      link: '',
+        'París, J. A. (2019). Comunicación esencial. El paradigma del <em>marketing<em> esencial <em>aplicado al diseño y comunicación visual.<em> Bogotá: Editorial Nobuko',
     },
     {
       referencia:
-        'Libro Yalán Dongo, E. (2019). <em>Semiótica Del Consumo: Una Aproximación a La Publicidad Desde Sus Signos.<em> Bogotá: Ediciones De La U',
-      link: '',
+        'Yalán Dongo, E. (2019). <em>Semiótica Del Consumo: Una Aproximación a La Publicidad Desde Sus Signos.<em> Bogotá: Ediciones De La U',
     },
   ],
   creditos: {

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 La comunicación visual para medios digitales
+      h1 Comunicación visual para medios digitales
     .row.justify-content-center.align-items-center
       .col-lg-2
             figure
@@ -22,7 +22,7 @@
           .row.justify-content-center.align-items-center.my-lg-4
             .col-lg-6
               .number(data-number="01")                
-                p.ps-4.mb-0.text-small.mt-3 La transmisión de un mensaje es una tarea propia de varias áreas que tienen que ver con la comunicación, entre ellas el diseño gráfico y la publicidad. Si bien estas profesiones se encargan de transferir los mensajes únicamente visuales, no significa que también sean los emisores originales del mensaje. Ambos, como creativos, son conductores para que este cumpla con sus objetivos. El creativo, entonces, es un intérprete que los conforma a partir de una marca para que lleguen a un público objetivo. 
+                p.ps-4.mb-0.mt-3 La transmisión de un mensaje es una tarea propia de varias áreas que tienen que ver con la comunicación, entre ellas el diseño gráfico y la publicidad. Si bien estas profesiones se encargan de transferir los mensajes únicamente visuales, no significa que también sean los emisores originales del mensaje. Ambos, como creativos, son conductores para que este cumpla con sus objetivos. El creativo, entonces, es un intérprete que los conforma a partir de una marca para que lleguen a un público objetivo. 
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider1.png')
@@ -31,7 +31,7 @@
             .col-lg-6
               .number(data-number="02")
                 
-                p.ps-4.mb-0.text-small.mt-2 Las entidades de comunicación visual, como, por ejemplo, las agencias publicitarias o los talleres de diseño gráfico, nacen con el fin de suplir la necesidad de transferir un mensaje determinado y no ambiguo para un público explícito. El texto es de vital importancia, por lo que, si se le presta mucha atención solo al diseño, no logrará cumplir con su principal función como entidad de comunicación visual y hará que el mensaje no sea el protagonista, pasando a un segundo plano. Incluso se puede llegar a tener tanta originalidad en el concepto, que puede ser nocivo para la marca, porque se le puede poner demasiada atención a su creación, dejando de lado la información que se quiere dejar al cliente objetivo.  
+                p.ps-4.mb-0.mt-2 Las entidades de comunicación visual, como, por ejemplo, las agencias publicitarias o los talleres de diseño gráfico, nacen con el fin de suplir la necesidad de transferir un mensaje determinado y no ambiguo para un público explícito. El texto es de vital importancia, por lo que, si se le presta mucha atención solo al diseño, no logrará cumplir con su principal función como entidad de comunicación visual y hará que el mensaje no sea el protagonista, pasando a un segundo plano. Incluso se puede llegar a tener tanta originalidad en el concepto, que puede ser nocivo para la marca, porque se le puede poner demasiada atención a su creación, dejando de lado la información que se quiere dejar al cliente objetivo.  
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider2.png')
@@ -41,7 +41,7 @@
             .col-lg-6
               .number(data-number="03")
                 
-                p.ps-4.mb-0.text-small.mt-2 Es por esto que, desde la teoría, los conceptos deben ser claros, simples y fáciles de comprender para este. Para concebir al diseño de la comunicación visual se debe pensar más en la función de las acciones que va a provocar el discurso con el cual el público objetivo va a interactuar, convenciéndolos para que realicen alguna acción de compra, o cambien alguna percepción o forma de pensar con respecto a la marca. Las siguientes figuras son ejemplos de anuncios con conceptos claros, y a la vez, impactantes.
+                p.ps-4.mb-0.mt-2 Es por esto que, desde la teoría, los conceptos deben ser claros, simples y fáciles de comprender. Para concebir al diseño de la comunicación visual, se debe pensar más en la función de las acciones que va a provocar el discurso con el cual el público objetivo va a interactuar, convenciéndolos para que realicen alguna acción de compra o que cambien alguna percepción o forma de pensar con respecto a la marca. Las siguientes figuras son ejemplos de anuncios con conceptos claros, y a la vez, impactantes:
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider3.png')
@@ -51,8 +51,8 @@
             .col-lg-6
               .number(data-number="04")
                 
-                i.text-small.mt-2 Anuncio publicitario 
-                p.text-small #[i McDonalds Anuncio publicitario de McDonald’s “café largo” que presenta la información de una manera clara y concisa.] 
+                p #[b Anuncio publicitario McDonald's - Large Coffe] (Café largo).
+                p Presenta la información de una manera clara y concisa, por medio de un juego visual. 
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider4.png')
@@ -62,8 +62,8 @@
             .col-lg-6
               .number(data-number="05")
                 
-                i.text-small.mt-2 Anuncio publicitario 
-                p.text-small #[i Faber-Castell Anuncio publicitario de Faber-Castell ‘colores verdaderos’ que muestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.]  
+                p #[b Anuncio publicitario Faber-Castell] ‘colores verdaderos’.
+                p Mestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider5.png')
@@ -74,8 +74,8 @@
               .number(data-number="06")
                 
                             
-               i.text-small.mt-2 Anuncio publicitario Toyota 
-              p.text-small #[i Anuncio publicitario de Toyota “FJ Cruiser 4×4” que muestra la potencia de la camioneta de manera exagerada pero, a la vez, clara y sin necesidad de adornos o demasiados textos.]  
+              h5 Anuncio publicitario Toyota “FJ Cruiser 4×4”.
+              p Muestra la potencia de la camioneta de manera exagerada, pero, a la vez, clara y sin necesidad de adornos o demasiados textos.
             
             
             
@@ -88,12 +88,7 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center Para ampliar la información descrita anteriormente, es hora de ver los elementos de la comunicación visual.
 
-      Separador
-
-    #t_3_1
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 3.1  Elementos
+    h3.mb-5 Elementos de la comunicación visual
 
     p Desde el concepto de la comunicación visual se incluyen diferentes componentes básicos para lograr conformar un mensaje de una manera oportuna y eficiente. Algunos de ellos son:
 
@@ -103,23 +98,23 @@
         img(src='@/assets/curso/temas/tema3/1.png' alt='AvatarTop')
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 El punto
-          p.text-center.text-small Es la unidad básica, la más simple dentro del concepto de la comunicación visual.
+          p.text-center Es la unidad básica, la más simple dentro del concepto de la comunicación visual.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/2.png' alt='AvatarTop')
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 La línea
-          p.text-center.text-small También conocida como ‘un punto en movimiento’.
+          p.text-center También conocida como ‘punto en movimiento’.
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/3.png' alt='AvatarTop')
         .tarjeta.bg20.p-5
           h4.text-center.mt-5 La dimensión
-          p.text-center.text-small Simboliza el volumen de los elementos.
+          p.text-center Simboliza el volumen de los elementos.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/4.png' alt='AvatarTop')
         .tarjeta.bg20.p-5
           h4.text-center.mt-5 El contorno
-          p.text-center.text-small Tiene que ver con el grosor de la línea.
+          p.text-center Tiene que ver con el grosor de la línea.
 
 
       .tarjeta-avatar
@@ -127,14 +122,14 @@
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 La textura
 
-          p.text-center.text-small Simboliza lo táctil. Normalmente, sirve de fondo en las diferentes piezas gráficas.
+          p.text-center Simboliza lo táctil. Normalmente, sirve de fondo en las diferentes piezas gráficas.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/6.png' alt='AvatarTop')
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 Las figuras
 
-          p.text-center.text-small Se refiere a las formas geométricas, como el cuadrado, círculo, triángulo, polígono, rectángulo, etc.
+          p.text-center Se refiere a las formas geométricas, como el cuadrado, círculo, triángulo, polígono, rectángulo, etc.
 
 
       .tarjeta-avatar
@@ -142,15 +137,14 @@
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 El trazo
 
-          p.text-center.text-small Tiene que ver con el aspecto caligráfico y los efectos que se le pueden dar a las líneas y su contorno.
+          p.text-center Tiene que ver con el aspecto caligráfico y los efectos que se le pueden dar a las líneas y su contorno.
 
       .tarjeta-avatar
         img(src='@/assets/curso/temas/tema3/8.png' alt='AvatarTop')
         .tarjeta.bg20.p-4
           h4.text-center.mt-5 Los colores
 
-          p.text-center.text-small Signos monocromáticos. Sirven para connotar sensaciones.
-
+          p.text-center Signos monocromáticos. Sirven para connotar sensaciones.
 
     p Cuando se piensa en comunicación visual, se puede creer que se trata de un diseño con gráficos para volantes, anuncios, afiches e incluso, para redes sociales. Sin embargo, la comunicación visual tiene muchos tipos de contenidos en los que juega un rol muy importante.
 
@@ -159,19 +153,14 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center El siguiente video mostrará los tipos de comunicación visual que suelen usarse al interior de las empresas.
 
-      Separador
-
-    #t_3_2
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 3.2  Tipos
+    h3.mb-5 Tipos de contenidos
 
     row
       .col-lg-12.mt-4
         figure
         .video
           iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption   VIDEO
+        
 
     .row.justify-content-center.align-items-center
       .col-lg-8.mt-5
@@ -218,16 +207,7 @@
           .col-md-7.mb-4.mb-md-0
             p Entra en juego el séptimo arte y todas sus manifestaciones, como documentales, cortometrajes y comerciales de televisión. El uso de los audiovisuales impacta mucho porque integra imágenes en movimiento con audio, a través de una narrativa, posibilitando la transmisión de un mensaje de forma seductora y llamativa. En la actualidad se pueden editar este tipo de videos para ser compartidos en redes sociales, de manera que su contenido sea viralizado por los mismos clientes. (París, 2019, p. 253).
 
-
-
-
-
-    Separador
-
-    #t_3_3
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 3.3  El mensaje comunicacional
+    h3.mb-5 El mensaje comunicacional
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -246,19 +226,13 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Mensaje comunicacional
-                      p.text-small.text-white Para ampliar información, revise el contenido dispuesto en el Anexo 2 en el cual se detallan los principales elementos que intervienen en el proceso comunicacional. 
+                      p.text-white Para ampliar información, revise el contenido dispuesto en el Anexo 2 en el cual se detallan los principales elementos que intervienen en el proceso comunicacional. 
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_2-El mensaje comunicacional.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_2_El_mensaje_comunicacional.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
-
-    Separador
-
-    #t_3_4
-    
-    .titulo-segundo.color-acento-contenido.mb-5
-      h2 3.4 Semiótica
+    h3.mb-5 Semiótica
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-5
@@ -279,7 +253,7 @@
                   .row.justify-content-between.align-items-center
                     .col.mb-4.mb-sm-0
                       h4.mb-1.text-white Semiótica
-                      p.text-small.text-white Para ampliar información, revise el contenido dispuesto en el Anexo 3, donde se muestra el concepto de la semiótica de imagen con ejemplos.
+                      p.text-white Para ampliar información, revise el contenido dispuesto en el Anexo 3, donde se muestra el concepto de la semiótica de imagen con ejemplos.
                     .col-sm-auto
                       a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_3-Semiotica.pdf')" target="_blank")
                         span Descargar

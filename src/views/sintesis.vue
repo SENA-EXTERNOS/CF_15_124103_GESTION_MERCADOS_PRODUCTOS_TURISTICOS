@@ -3,15 +3,11 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    
-          
-    .row.justify-content-center
-          .col-lg-10.sm-8.mt-5       
-              p Estimado aprendiz, se le invita a ver el mapa conceptual donde encontrará una síntesis de todos los elementos desarrollados en este componente formativo.
-    .row.justify-content-center.mt-4
+    p Estimado aprendiz, se le invita a ver el mapa conceptual donde encontrará una síntesis de todos los elementos desarrollados en este componente formativo.
+    .row.justify-content-center.mt-5
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/Sintesis.png", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
