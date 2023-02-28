@@ -39,14 +39,14 @@
           .cajon.color-acento-contenido.p-3            
             p.text-center ¿Qué características tiene la infraestructura tecnológica?
 
-    h3.mb-5 Características de la Infraestructura tecnológica
+    h3.my-5 Características de la Infraestructura tecnológica
 
 
     .row.justify-content-center.align-items-center
       .col-lg-3
           figure
-            img(src='@/assets/curso/temas/tema1/img3.svg' width='295px' height='173px').imagen-deco
-      .col-lg-5.mt-4
+            img(src='@/assets/curso/temas/tema1/img3.svg' width='295px' height='173px')
+      .col-lg-8
           p La tecnología mueve e inspira a las empresas de hoy en muchos aspectos, desde el trabajo individual de un empleado, hasta el que se hace en equipo, en las distintas operaciones o en la fabricación de sus bienes y servicios. Cuando se usa de la manera correcta puede optimizar el mejoramiento en las comunicaciones, e incluso, incrementar su eficiencia y productividad.
 
       .row.justify-content-center.align-items-center.mt-3
@@ -58,7 +58,7 @@
           .cajon.color-acento-contenido.p-3            
             p.text-center ¿Cuáles son sus elementos?
         
-    h3.mb-5 Elementos de la Infraestructura Tecnológica
+    h3.my-5 Elementos de la Infraestructura Tecnológica
 
     .row
       .col-lg-2
@@ -79,52 +79,33 @@
               
 
           .tarjeta.bg21.p-3(x="15%" y="80%" numero="")            
-            .row.justify-content-around.align-items-center.p-4
-              .col-lg-3
-                figure
-                img(src="@/assets/curso/temas/tema1/img15.png" width='' height='').img300
-              .col-lg-9
-                
-                  
-                    b.mb-1.text-white #[i Hardware]
-                    p.text-white Tiene que ver con servidores, computadores, centros de datos, conmutadores, enrutadores y demás equipos. También con las instalaciones que albergan y enfrían los centros de datos o las que se encargan de proporcionar energía.
+            h4.mb-3.text-center #[i Hardware]
+            p Tiene que ver con servidores, computadores, centros de datos, conmutadores, enrutadores y demás equipos. También con las instalaciones que albergan y enfrían los centros de datos o las que se encargan de proporcionar energía.
           
           .tarjeta.bg21.p-3(x="50%" y="80%" numero="")
-            .row.justify-content-around.align-items-center.p-2
-              .col-lg-3
-                figure
-                img(src="@/assets/curso/temas/tema1/img16.png").img300
-              .col-lg-9
-                
-                    b.mb-1.text-white #[i Software ]
-                    p.text-white Tiene que ver con las aplicaciones que usa el negocio, como, por ejemplo, sistemas de gestión de contenido, los servidores web y el sistema operativo 
-                      i (Windows Linux). 
-                      | El sistema operativo está encargado de administrar los recursos del sistema de 
-                      i hardware, 
-                      | además de establecer las conexiones entre los recursos físicos y el 
-                      i software 
+            h4.mb-3.text-center #[i Software ]
+            p Tiene que ver con las aplicaciones que usa el negocio, como, por ejemplo, sistemas de gestión de contenido, los servidores web y el sistema operativo 
+              i (Windows Linux). 
+              | El sistema operativo está encargado de administrar los recursos del sistema de 
+              i hardware, 
+              | además de establecer las conexiones entre los recursos físicos y el 
+              i software 
                       | que desarrollan las labores.
 
 
 
           .tarjeta.bg21.p-3(x="85%" y="80%" numero="")
-            .row.justify-content-around.align-items-center.p-2
-              .col-lg-3
-                figure
-                img(src="@/assets/curso/temas/tema1/img17.png").img300
-              .col-lg-9
-                
-                    b.mb-1.text-white Redes
-                    p.text-white Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
-                      i hardware, 
-                      | como, por ejemplo, cables, conmutadores y enrutadores. Éstos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
+            h4.mb-3.text-center Redes
+            p Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
+              i hardware, 
+              | como, por ejemplo, cables, conmutadores y enrutadores. Éstos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mt-5
           .cajon.color-acento-contenido.p-3            
             p.text-center Sus tipos digitales, ¿cuáles son?  
       
-    h3.mb-5 Tipos de Infraestructura tecnológica
+    h3.my-5 Tipos de Infraestructura tecnológica
 
     p A continuación, se enuncian los tipos digitales más normales y usados en la infraestructura de TI:
 
@@ -176,7 +157,7 @@
             .cajon.color-acento-contenido.p-3            
               p ¿Qué es la gestión de la infraestructura digital?
 
-    h3.mb-5 Gestión de la Infraestructura tecnológica
+    h3.my-5 Gestión de la Infraestructura tecnológica
 
     .row.justify-content-center.align-items-center  
       .col-lg-4

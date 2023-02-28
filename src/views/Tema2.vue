@@ -34,7 +34,7 @@
         .cajon.color-acento-contenido.p-3            
           p.text-center De acuerdo a lo anterior, a continuación, se verán las características de las plataformas digitales.
 
-    h3.mb-5 Características de las plataformas digitales
+    h3.my-5 Características de las plataformas digitales
     
     p Las plataformas digitales tienen un grupo de características que exponen su importancia hoy y a futuro:
     .row
@@ -86,7 +86,7 @@
             p.text-center Ya se vieron las características, es hora de acercarse a los tipos de las plataformas digitales.
 
 
-    h3.mb-5 Tipos de plataformas digitales
+    h3.my-5 Tipos de plataformas digitales
 
 
     p Álvarez Sotomayor (2020) afirma que hay una gran cantidad de tipos de plataformas digitales y que con cada dificultad se puede crear un tipo distinto (s.p.). Las plataformas digitales admiten la creación de complicadas estrategias con un equipo de trabajo pequeño, además, también facilitan enfocarse en la estrategia y no en la operatividad. Algunas son:
@@ -156,7 +156,7 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center En cuanto al  objetivo de las plataformas digitales, observe la siguiente infografía.
 
-    h3.mb-5 Objetivos de las plataformas digitales
+    h3.my-5 Objetivos de las plataformas digitales
 
     .row
       .col-lg-2
@@ -196,7 +196,7 @@
             p.text-center Encontrará a continuación las ventajas de las plataformas digitales.
 
 
-    h3.mb-5 Ventajas
+    h3.my-5 Ventajas
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -209,7 +209,7 @@
     SlyderB.ps-4.mb-0(:datos="datosSlyder").imgslider2
 
 
-    h3.mb-5 Gestión de plataformas digitales
+    h3.my-5 Gestión de plataformas digitales
 
     p En cuanto a la gestión de plataformas digitales, antes de crear una plataforma digital, se necesita reflexionar sobre lo relacionado al modelo de negocio y la idoneidad empresarial para lograrlo. Es preciso tener en cuenta las claves para crear una plataforma digital que sea coherente con el contexto empresarial.
 

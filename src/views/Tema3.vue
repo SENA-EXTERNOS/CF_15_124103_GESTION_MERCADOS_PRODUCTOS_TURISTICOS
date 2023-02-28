@@ -63,7 +63,7 @@
               .number(data-number="05")
                 
                 p #[b Anuncio publicitario Faber-Castell] ‘colores verdaderos’.
-                p Mestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.
+                p Muestra el poder de sus colores haciendo un ensamble entre el producto y la ilustración de forma creativa y simple.
             .col-7.col-lg-5
               figure
                 img(src='@/assets/curso/temas/tema3/slider5.png')
@@ -88,7 +88,7 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center Para ampliar la información descrita anteriormente, es hora de ver los elementos de la comunicación visual.
 
-    h3.mb-5 Elementos de la comunicación visual
+    h3.my-5 Elementos de la comunicación visual
 
     p Desde el concepto de la comunicación visual se incluyen diferentes componentes básicos para lograr conformar un mensaje de una manera oportuna y eficiente. Algunos de ellos son:
 
@@ -153,7 +153,7 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center El siguiente video mostrará los tipos de comunicación visual que suelen usarse al interior de las empresas.
 
-    h3.mb-5 Tipos de contenidos
+    h3.my-5 Tipos de contenidos
 
     row
       .col-lg-12.mt-4
@@ -207,7 +207,7 @@
           .col-md-7.mb-4.mb-md-0
             p Entra en juego el séptimo arte y todas sus manifestaciones, como documentales, cortometrajes y comerciales de televisión. El uso de los audiovisuales impacta mucho porque integra imágenes en movimiento con audio, a través de una narrativa, posibilitando la transmisión de un mensaje de forma seductora y llamativa. En la actualidad se pueden editar este tipo de videos para ser compartidos en redes sociales, de manera que su contenido sea viralizado por los mismos clientes. (París, 2019, p. 253).
 
-    h3.mb-5 El mensaje comunicacional
+    h3.my-5 El mensaje comunicacional
 
     .row.justify-content-center.align-items-center
       .col-lg-3
@@ -232,7 +232,7 @@
                         span Descargar
                         i.fas.fa-file-download
 
-    h3.mb-5 Semiótica
+    h3.my-5 Semiótica
 
     .row.justify-content-center.align-items-center.mt-3
       .col-lg-5
@@ -255,14 +255,14 @@
                       h4.mb-1.text-white Semiótica
                       p.text-white Para ampliar información, revise el contenido dispuesto en el Anexo 3, donde se muestra el concepto de la semiótica de imagen con ejemplos.
                     .col-sm-auto
-                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_3-Semiotica.pdf')" target="_blank")
+                      a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/anexo_3_Semiotica.pdf')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
     .row.justify-content-center.align-items-center
       .col-lg-9.mt-5
-            .cajon.color-acento-contenido.p-3            
-              p.text-center De acuerdo a lo anterior, es momento de mirar la síntesis de este componente formativo.
+        .cajon.color-acento-contenido.p-4           
+          p.text-center.mb-0 Para un estudio completo de este y los demás temas abordados en este componente formativo, recuerde explorar todos los recursos disponibles en el menú principal, tales como material complementario, actividad didáctica y glosario, entre otros.
 
 
 
