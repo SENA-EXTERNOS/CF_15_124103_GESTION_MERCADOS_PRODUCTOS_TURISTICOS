@@ -120,13 +120,6 @@ export default {
       link:
         'https://www.researchgate.net/publication/335960976_Componentes_basicos_de_la_comunicacion_visual ',
     },
-    {
-      tema: 'Semiótica',
-      referencia:
-        'Negocios en tu mundo (2020) <em>¿Qué es la Semiótica de la Imagen? <em>',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=qrrkfeRyt84 ',
-    },
   ],
   glosario: [
     {
