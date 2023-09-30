@@ -98,7 +98,7 @@
             h4.mb-3.text-center Redes
             p Consiste de una conexión a la web, cortafuegos, seguridad, habilitación de la Red y también los elementos 
               i hardware, 
-              | como, por ejemplo, cables, conmutadores y enrutadores. Éstos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
+              | como, por ejemplo, cables, conmutadores y enrutadores. Estos elementos de red cuando se interconectan admiten la comunicación, administración y operaciones de red entre los sistemas externos e internos.
     
     .row.justify-content-center.align-items-center
       .col-lg-4.mt-5
