@@ -153,7 +153,7 @@
             .cajon.color-acento-contenido.p-3            
               p.text-center El siguiente video mostrará los tipos de comunicación visual que suelen usarse al interior de las empresas.
 
-    h3.my-5 Tipos de contenidos
+    h3.my-5 Tipos de comunicación visual usados al interior de las empresas
 
     row
       .col-lg-12.mt-4
