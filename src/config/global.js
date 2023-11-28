@@ -178,10 +178,14 @@ export default {
     {
       referencia:
         'Álvarez de Sotomayor, S. F. (2020). <em>Plataformas digitales en los alquileres vacacionales.<em> Madrid: Reus Editorial.',
+      link:
+        'https://www.marcialpons.es/media/pdf/plataformas-digitales-en-los-alquileres-vacacionales_reus.pdf',
     },
     {
       referencia:
         'De Castro Torrecilla, J. (2020). Plataformas digitales en el turismo y su implicación en la transformación del <em>marketing<em> del sector. Segovia: <em>Facultad de Ciencias Sociales, Jurídicas y de la Comunicación.<em> Universidad de Valladolid.',
+      link:
+        'https://uvadoc.uva.es/bitstream/handle/10324/40560/TFG-N.1258.pdf?sequence=1&isAllowed=y',
     },
     {
       referencia:
